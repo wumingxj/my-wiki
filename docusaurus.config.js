@@ -11,7 +11,7 @@ const config = {
     v4: true,
   },
 
-  url: 'https://github.com/wumingxj',
+  url: 'https://wumingxj.github.io',
   baseUrl: '/my-wiki/',
 
   organizationName: 'wumingxj',
@@ -82,7 +82,7 @@ const config = {
           },
           {to: '/blog', label: 'Tech Notes', position: 'left'},
           {
-            href: 'https://github.com/wimingxj/my-wiki',
+            href: 'https://github.com/wumingxj/my-wiki',
             label: 'GitHub',
             position: 'right',
           },
